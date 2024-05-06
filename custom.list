@@ -37,3 +37,7 @@ DOMAIN-SUFFIX,smtcdns.net
 
 # qq
 DOMAIN-SUFFIX,qq.com
+
+# 微信读书
+DOMAIN-KEYWORD,qqreader
+DOMAIN-KEYWORD,wereader
