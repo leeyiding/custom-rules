@@ -37,7 +37,12 @@ DOMAIN-SUFFIX,smtcdns.net
 
 # qq
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qlogo.cn
 
 # 微信读书
 DOMAIN-KEYWORD,qqreader
 DOMAIN-KEYWORD,wereader
+
+# qq music
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,tencentmusic.com
