@@ -51,3 +51,6 @@ DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.cn
 DOMAIN-SUFFIX,360buyimg.com
+
+# 1号店
+DOMAIN-SUFFIX,yhd.com
