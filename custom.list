@@ -46,3 +46,8 @@ DOMAIN-KEYWORD,wereader
 # qq music
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,tencentmusic.com
+
+# 京东
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.cn
+DOMAIN-SUFFIX,360buyimg.com
