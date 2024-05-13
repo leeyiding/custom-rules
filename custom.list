@@ -54,3 +54,8 @@ DOMAIN-SUFFIX,360buyimg.com
 
 # 1号店
 DOMAIN-SUFFIX,yhd.com
+
+# 163 music
+DOMAIN-SUFFIX,music.126.net
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,man.netease.com
